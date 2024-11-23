@@ -1,12 +1,11 @@
+##
+# Copyright (C) 2024 by amritraj78@Github, < https://github.com/amritraj78 >.
 #
-# Copyright (C) 2024 by IamDvis@Github, < https://github.com/IamDvis >.
-#
-# This file is part of < https://github.com/IamDvis/DV-MUSIC > project,
+# This file is part of < https://github.com/amritraj78/BRANDED-MUSIC > project,
 # and is released under the MIT License.
-# Please see < https://github.com/IamDvis/DV-MUSIC/blob/master/LICENSE >
+# Please see < https://github.com/amritraj78/BRANDED-MUSIC/blob/master/LICENSE >
 #
 # All rights reserved.
-
 def get_readable_time(seconds: int) -> str:
     count = 0
     readable_time = ""
