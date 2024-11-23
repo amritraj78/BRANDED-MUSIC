@@ -1,12 +1,11 @@
 #
-# Copyright (C) 2024 by IamDvis@Github, < https://github.com/IamDvis >.
+# Copyright (C) 2024 by amritraj78@Github, < https://github.com/amritraj78 >.
 #
-# This file is part of < https://github.com/IamDvis/DV-MUSIC > project,
+# This file is part of < https://github.com/amritraj78/BRANDED-MUSIC > project,
 # and is released under the MIT License.
-# Please see < https://github.com/IamDvis/DV-MUSIC/blob/master/LICENSE >
+# Please see < https://github.com/amritraj78/BRANDED-MUSIC/blob/master/LICENSE >
 #
 # All rights reserved.
-
 import os
 import re
 from os import getenv
@@ -76,7 +75,7 @@ LOG_GROUP_ID = (getenv("LOG_GROUP_ID", ""))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "11679112664").split())
+    map(int, getenv("OWNER_ID", "7745014754").split())
 )  # Input type must be interger
 
 
@@ -97,7 +96,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/IamDvis/DV-MUSIC",
+    "https://github.com/amritraj78/BRANDED-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
@@ -118,15 +117,15 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/ai_image_junction"
-)  # Example:- https://t.me/ai_image_junction
+    "SUPPORT_CHANNEL", "https://t.me/ll_IMPERIAL_ll"
+)  # Example:- https://t.me/ll_IMPERIAL_ll
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/+7ehnJA3aMb84OGNl"
-)  # Example:- https://t.me/+7ehnJA3aMb84OGNl
+    "SUPPORT_GROUP", "https://t.me/ll_KINGDOM_ll"
+)  # Example:- https://t.me/ll_KINGDOM_ll
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/+7ehnJA3aMb84OGNl"
-)  # Example:- https://t.me/+7ehnJA3aMb84OGNl
+    "SUPPORT_GROUP", "https://t.me/ll_KINGDOM_ll"
+)  # Example:- https://t.me/ll_KINGDOM_ll
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
@@ -149,7 +148,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/IamDvis/DV-MUSIC")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/amritraj78/BRANDED-MUSIC")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
@@ -221,7 +220,7 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://envs.sh/nAT.jpg",
+    "https://files.catbox.moe/h75qko.jpg",
 )
 
 PING_IMG_URL = getenv(
