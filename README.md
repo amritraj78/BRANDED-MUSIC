@@ -41,7 +41,7 @@
 </h3>
 
 ### 🖇 VPS Deployment
-- Clone repo: `git clone https://github.com/IamDvis/DV-MUSIC && cd DV-MUSIC`
+- Clone repo: `git clone https://github.com/amritraj78/BRANDED-MUSIC && cd BRANDED-MUSIC`
 - Setup by: `bash setup`
 - Fill [Extra Variables](https://github.com/amritraj78/BRANDED-MUSIC/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
 - Install tmux: `sudo apt install tmux && tmux`
