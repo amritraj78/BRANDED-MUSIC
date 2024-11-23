@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2024 by IamDvis@Github, < https://github.com/IamDvis >.
+# Copyright (C) 2024 by amritraj78@Github, < https://github.com/amritraj78 >.
 #
-# This file is part of < https://github.com/IamDvis/DV-MUSIC > project,
+# This file is part of < https://github.com/amritraj78/BRANDED-MUSIC > project,
 # and is released under the MIT License.
-# Please see < https://github.com/IamDvis/DV-MUSIC/blob/master/LICENSE >
+# Please see < https://github.com/amritraj78/BRANDED-MUSIC/blob/master/LICENSE >
 #
 # All rights reserved.
 import asyncio
@@ -59,10 +59,10 @@ async def init():
     await userbot.start()
     await ERA.start()
     await ERA.decorators()
-    LOGGER("ERAVIBES").info("🎉 𝗘𝗥𝗔𝗩𝗜𝗕𝗘𝗦🥳𝗦𝗧𝗔𝗥𝗧𝗘𝗗🥳𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 🎊")
+    LOGGER("ERAVIBES").info("🎉 𝗔𝗡𝗚𝗟𝗘𝗩𝗜𝗕𝗘𝗦🥳𝗦𝗧𝗔𝗥𝗧𝗘𝗗🥳𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 🎊")
     await idle()
 
 
 if __name__ == "__main__":
     asyncio.get_event_loop_policy().get_event_loop().run_until_complete(init())
-    LOGGER("ERAVIBES").info("𝗦𝘁𝗼𝗽𝗽𝗶𝗻𝗴 𝗘𝗥𝗔𝗩𝗜𝗕𝗘𝗦! 𝗚𝗼𝗼𝗱𝗕𝘆𝗲 🥹")
+    LOGGER("ERAVIBES").info("𝗦𝘁𝗼𝗽𝗽𝗶𝗻𝗴 𝗔𝗡𝗚𝗟𝗘𝗩𝗜𝗕𝗘𝗦! 𝗚𝗼𝗼𝗱𝗕𝘆𝗲 🥹")
