@@ -1,4 +1,4 @@
-# ERA VIBES Bot Configs
+# ANGLE VIBES Bot Configs
 
 Config vars are basically the variables which configure or modify bot to function, which are the basic necessities of plugins or code to work. You have to set the proper mandatory vars to make it functional and to start the basic feature of bot.
 
@@ -14,7 +14,7 @@ Config vars are basically the variables which configure or modify bot to functio
 4. `MONGO_DB_URI` : Get mongo db [from here.](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb)
 5. `LOG_GROUP_ID` : You'll need a Private Group ID for this. Supergroup Needed with id starting from -100 
 6. `OWNER_ID` : Your Owner ID for managing your bot.
-7. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@VIP String Bot](http://t.me/VIP_String_roBot) in Telegram.
+7. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [˹𝐒ᴛʀɪɴɢ 𝐒ᴇssɪᴏɴ˼](http://t.me/STRINGROBOT) in Telegram.
 
 
 ## Non-Mandatory Vars
@@ -109,7 +109,7 @@ Config vars are basically the variables which configure or modify bot to functio
 
 - You can use upto 5 Assistant Clients ( allowing your bot to atleast work in 2000-2500 chats at a time )
 
-1. `STRING_SESSION2` : Pyrogram Session Needed, Generate string from [@VIPStringBot](http://t.me/VIPStringBot) in Telegram.
-2. `STRING_SESSION3` : Pyrogram Session Needed, Generate string from [@VIPStringBot](http://t.me/VIPStringBot) in Telegram.
-3. `STRING_SESSION4` : Pyrogram Session Needed, Generate string from [@VIPStringBot](http://t.me/VIPStringBot) in Telegram.
-4. `STRING_SESSION5` : Pyrogram Session Needed, Generate string from [@VIPStringBot](http://t.me/VIPStringBot) in Telegram.
+1. `STRING_SESSION2` : Pyrogram Session Needed, Generate string from [@STRINGROBOT](http://t.me/STRINGROBOT) in Telegram.
+2. `STRING_SESSION3` : Pyrogram Session Needed, Generate string from [@STRINGROBOT](http://t.me/STRINGROBOT) in Telegram.
+3. `STRING_SESSION4` : Pyrogram Session Needed, Generate string from [@STRINGROBOT](http://t.me/STRINGROBOT) in Telegram.
+4. `STRING_SESSION5` : Pyrogram Session Needed, Generate string from [@STRINGROBOT](http://t.me/STRINGROBOT) in Telegram.
