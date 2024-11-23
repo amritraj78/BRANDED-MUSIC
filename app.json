@@ -1,7 +1,7 @@
 {
-    "name": "ERAVIBES",
+    "name": "𝐀ɴɢʟᴇ 𝐐ᴜᴇᴇɴ",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://envs.sh/nP0.jpg",
+    "logo": "https://files.catbox.moe/nzpm5w.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -91,7 +91,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/IamDvis/DV-MUSIC",
+        "value": "https://github.com/amritraj78/BRANDED-MUSIC",
         "required": true
       },
       "UPSTREAM_BRANCH": {
